@@ -1,26 +1,37 @@
-# Breast Cancer Prediction uisng Various Machine Learning Models in R
+# Breast Cancer Diagnosis uisng Various Machine Learning Models in R
 A comparative analysis of various machine learning models for malignancy prediction of breast cancer cells
 # Problem Definition
 * Breast cancer a major health concern causing abnormality in cells
 * Cancer specific to females with an exponential increase of death reports.
 * An early diagnose is required for early clinical measures and increase in recovery rate
 # Dataset Description
-* Dataset available in UCI repository, for link [click here](https://archive.ics.uci.edu/ml/index.php)
+* Dataset available in UCI repository, for link [click here](https://archive.ics.uci.edu/ml/index.php) \n 
 Dataset features include:
-* region (average of distances from middle to spots on the boundary)
-* surface (standard deviation of gray-scale values)
-* boundary
-* region 
-* softness (local variation in radius lengths)
-* density (boundary^2 / region - 1.0)
-* incurvation (severity of concave portions of the contour)
-* incurvation points (count of concave portions of the contour)
-* symmetry 
-* fractal portion ("coastline estimation" - 1)
+* Thickness of cell
+* Cell size
+* Cell shape
+* Adhesion
+* Single cell size
+* Nuclei
+* Chromatin
+* Nucleoli
+* Mitoses
+* Group (“Malignancy”, “Benign”)
+
 # ML models Used
+### CART (Classification and Regression Trees)
+![CART](imgs/cart.png) \n
+### LDA (Linear discriminant analysis)
 
+### KNN (K Nearest Neighbors)
+![KNN](imgs/knn.png) \n
+### SVM (Support Vector Machine)
+![SVM](imgs/svm.png) \n
+### RF (Random Forest)
+![RF](imgs/rf.png) \n
 # Comparitive Study Results
-
+After the comparison of various machine learning models. Random Forest displayed highest accuracy.
+![Comparitive Analysis Outuput](imgs/Compare.png)  \n
 # Tools used
 * R Studio
 * Orange tool
