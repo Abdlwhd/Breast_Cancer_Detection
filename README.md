@@ -20,18 +20,18 @@ Dataset features include:
 
 # ML models Used
 ### CART (Classification and Regression Trees)
-![CART](imgs/cart.png) \n
+![CART](imgs/cart.png)
 ### LDA (Linear discriminant analysis)
-
+![LDA](imgs/lda.png)
 ### KNN (K Nearest Neighbors)
-![KNN](imgs/knn.png) \n
+![KNN](imgs/knn.png)
 ### SVM (Support Vector Machine)
-![SVM](imgs/svm.png) \n
+![SVM](imgs/svm.png)
 ### RF (Random Forest)
-![RF](imgs/rf.png) \n
+![RF](imgs/rf.png)
 # Comparitive Study Results
 After the comparison of various machine learning models. Random Forest displayed highest accuracy.
-![Comparitive Analysis Outuput](imgs/Compare.png)  \n
+![Comparitive Analysis Outuput](imgs/Compare.png)
 # Tools used
 * R Studio
 * Orange tool
