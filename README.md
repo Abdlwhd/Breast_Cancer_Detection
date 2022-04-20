@@ -22,7 +22,7 @@ Dataset features include:
 ### CART (Classification and Regression Trees)
 ![CART](imgs/cart.png)
 ### LDA (Linear discriminant analysis)
-![LDA](imgs/lda.png)
+![LDA](imgs/lda.PNG)
 ### KNN (K Nearest Neighbors)
 ![KNN](imgs/knn.png)
 ### SVM (Support Vector Machine)
