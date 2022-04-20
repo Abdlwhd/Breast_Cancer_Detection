@@ -5,7 +5,7 @@ A comparative analysis of various machine learning models for malignancy predict
 * Cancer specific to females with an exponential increase of death reports.
 * An early diagnose is required for early clinical measures and increase in recovery rate
 # Dataset Description
-* Dataset available in UCI repository, for link [click here](https://archive.ics.uci.edu/ml/index.php) <br /> 
+Dataset available in UCI repository, for link [click here](https://archive.ics.uci.edu/ml/index.php) <br /> 
 Dataset features include:
 * Thickness of cell
 * Cell size
