@@ -1,5 +1,5 @@
 # Breast Cancer Diagnosis uisng Various Machine Learning Models in R
-A comparative analysis of various machine learning models for malignancy prediction of breast cancer cells
+A comparative analysis of various machine learning models for malignancy detection of breast cancer cells
 # Problem Definition
 * Breast cancer a major health concern causing abnormality in cells
 * Cancer specific to females with an exponential increase of death reports.
